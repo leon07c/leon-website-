@@ -1,3 +1,6 @@
+here is a link to the pulished website https://comforting-kitten-4831f3.netlify.app/
+
+
 # Welcome to My Portfolio 👋
 
 Hello, I'm **Leon Kabugi** — a passionate **Web Developer** and **Software Engineer** on a mission to build meaningful, creative, and impactful tech solutions.
